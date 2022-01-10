@@ -1,0 +1,3 @@
+# WPF_animations
+
+Animaatiotestailua, DoubleAnimation vs. Onrender.....
